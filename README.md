@@ -58,7 +58,6 @@ You can then see order history and test the shopping function. When you check ou
 For testing purposes, `4242 4242 4242 4242` can be used as the credit card number with any future date for the expiration date and any three digits for the CVC.
 
 ## Screenshot
-![screenshot](shop-shop-screenshot.png)
 <img width="400" alt=" 1st Image" src="shop-shop-screenshot.png">
 
 

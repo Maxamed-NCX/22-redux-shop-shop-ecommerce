@@ -60,6 +60,13 @@ For testing purposes, `4242 4242 4242 4242` can be used as the credit card numbe
 ## Screenshot
 <img width="400" alt=" 1st Image" src="shop-shop-screenshot.png">
 
+### Demo
+Sign up/Login
+<img width="400" alt=" Sign up" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-01.gif">
+Adding to Cart
+<img width="400" alt=" adding to cart" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-02.gif">
+Checkout
+<img width="400" alt=" checkout" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-03.gif">
 
 # License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)

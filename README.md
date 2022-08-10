@@ -61,11 +61,11 @@ For testing purposes, `4242 4242 4242 4242` can be used as the credit card numbe
 <img width="400" alt=" 1st Image" src="shop-shop-screenshot.png">
 
 ### Demo
-Sign up/Login
-<img width="400" alt=" Sign up" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-01.gif">
-Adding to Cart
-<img width="400" alt=" adding to cart" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-02.gif">
-Checkout
+Sign up/Login <br>
+<img width="400" alt=" Sign up" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-01.gif"> <br>
+Adding to Cart <br>
+<img width="400" alt=" adding to cart" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-02.gif"> <br>
+Checkout <br>
 <img width="400" alt=" checkout" src="https://raw.githubusercontent.com/Mcnoor/redux-shop-shop-BC22-/main/media/demo-03.gif">
 
 # License

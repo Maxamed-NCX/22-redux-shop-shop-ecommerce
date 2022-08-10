@@ -16,6 +16,10 @@ const typeDefs = gql`
     category: Category
   }
 
+  type Checkout {
+    session: ID
+  }
+
   type Order {
     _id: ID
     purchaseDate: String
@@ -41,6 +45,7 @@ const typeDefs = gql`
     product(_id: ID!): Product
     user: User
     order(_id: ID!): Order
+    checkout(products: [ID]!): Checkout
   }
 
   type Mutation {

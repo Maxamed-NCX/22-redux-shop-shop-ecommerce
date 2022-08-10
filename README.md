@@ -59,3 +59,47 @@ For testing purposes, `4242 4242 4242 4242` can be used as the credit card numbe
 
 ## Screenshot
 ![screenshot](shop-shop-screenshot.png)
+<img width="400" alt=" 1st Image" src="shop-shop-screenshot.png">
+
+
+# License
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
+# Contributing
+Contributors: UofM BC & MCX
+
+# Tests
+The project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3002 to view it in the browser.
+npm start on local machince
+
+The page will reload if you make edits.
+You will also see any errors in the console.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+
+## Tools 
+- [IndexDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [Heroku](https://www.heroku.com)
+- [NPM Bcrypt Package](https://www.npmjs.com/package/bcrypt)
+- [NPM Express.js Package](https://www.npmjs.com/package/express)
+- [NPM JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
+- [NPM Mongoose Package](https://www.npmjs.com/package/mongoose)
+- [Morgan](https://www.npmjs.com/package/morgan)
+- [Node.js](https://nodejs.org/en/)
+- [NPM nodemon Package](https://www.npmjs.com/package/nodemon)
+- [NPM JWT-Decode Package](https://www.npmjs.com/package/jwt-decode)
+
+  
+# Questions?
+## Please contact me:
+  * [My GitHub Profile](https://github.com/Mcnoor/)
+  * [My Github Project Repository](https://github.com/Mcnoor/redux-shop-shop-BC22-)
+  * Email us at: [maxanoor](mailto:maxanoor@gmail.com.com) with questions or make an issue about this project.
+

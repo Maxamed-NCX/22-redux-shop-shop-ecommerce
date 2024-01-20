@@ -1,4 +1,7 @@
-# redux-shop-shop-BC22-
+# redux-shop-shop
+
+## UofM BootCamp: Application 22
+redux shop-shop ecommerce
 
 # 🛍️-Shop-Shop-Redux
 
